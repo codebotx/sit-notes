@@ -43,6 +43,11 @@ h5 {
     line-height: 20px;
 }
 
+h6 {
+    font-weight: bold;
+    line-height: 20px;
+}
+
 p {
     font-family: 'Open Sans', sans-serif;
 }
@@ -52,4 +57,13 @@ p.intro {
     margin: 12px 0 0;
     line-height: 24px;
     font-family: 'Open Sans', sans-serif;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.card-footer {
+    background: transparent;
+    border-top: 0px;
 }
